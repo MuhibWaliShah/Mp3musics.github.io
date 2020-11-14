@@ -1,0 +1,59 @@
+body{
+margin: 0%;
+padding: 0%;
+}
+.parallex{
+  background-image: url("back2.jpg");
+  min-height: 600px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallex2{
+  background-image: url("back3.jpg");
+  min-height:auto; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Songs{
+ background-image: url("dark.jpg");
+  min-height:auto; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.slider{
+	 background-image: url("dark.jpg");
+      font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      color:#000;
+      margin: 0;
+      padding: 0;
+      opacity: 0.9;
+}
+.swiper-container {
+      width: 100%;
+      padding-top: 50px;
+      padding-bottom: 50px;
+    }
+    .swiper-slide {
+      background-position: center;
+      background-size: cover;
+      width:200px;
+      height:300px;
+      background-color: #fff;
+    }
+
+#banner{
+	margin-left: 2%;
+}
+#banner1{
+	margin-left: 2%;
+}
+#row2{
+	margin-top: 2%;
+}
